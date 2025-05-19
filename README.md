@@ -23,6 +23,7 @@ npm install
 # Start the development server
 npm run dev
 
+
 📁 Features
 
 ✅ Real-time movie and TV show data
@@ -30,6 +31,8 @@ npm run dev
 ✅ Browse by categories (e.g. Popular, Now Playing, Upcoming)
 ✅ Fully responsive layout
 ✅ Clean, modern, Disney+ style design
+
+
 🧩 Planned Enhancements
 
 🔍 Search functionality
@@ -37,6 +40,8 @@ npm run dev
 📺 Watchlist (local or backend-powered)
 🌙 Dark Mode toggle
 👤 User authentication (optional future feature)
+
+
 📦 Data Source
 
 All content is fetched from a public movie API, such as The Movie Database (TMDB), using API keys and RESTful endpoints.
