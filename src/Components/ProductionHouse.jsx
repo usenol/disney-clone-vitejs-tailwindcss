@@ -54,7 +54,6 @@ function ProductionHouse() {
             className='absolute z-0 top-0 rounded-md 
             opacity-0 hover:opacity-50 w-full'/> 
                 <img src={item.image} className='w-full z-[1] opacity-100' /> 
-               
             </div>
         ))}
     </div>
